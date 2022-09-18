@@ -1,9 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;700&family=Oswald:wght@700&display=swap");
 
 body {
+    margin: 50px;
     text-align: center;
     background-color: rgb(233, 215, 207);
-    color: rgb(83, 75, 75);
+    color: rgb(49, 49, 49);
 }
 
 h1, h2 {
@@ -12,7 +13,7 @@ h1, h2 {
 
 a {
     font-family: 'Fira sans', sans-serif;
-    color: rgb(207, 20, 150);
+    color: rgb(99, 29, 16);
     text-decoration: none;
 }
 
@@ -23,4 +24,5 @@ a:hover {
 
 p, ul {
     font-family: 'Fira sans', sans-serif;
+    font-size: 24px;
 }
